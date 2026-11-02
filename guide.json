@@ -1,0 +1,320 @@
+{
+  "version": "3.0",
+  "destination": "Ayia Napa, Cyprus",
+  "updated": "2026-11-02",
+  "intro": "Explore Ayia Napa on the southeast coast of Cyprus: Nissi Beach, the harbour, Cape Greco, sea caves, family attractions and lively evenings. Save your holiday plans, favourite visits and photographs on this device.",
+  "areas": [
+    {
+      "name": "Ayia Napa Centre",
+      "description": "Shops, restaurants, monastery square and nightlife streets."
+    },
+    {
+      "name": "Ayia Napa Harbour",
+      "description": "Fishing boats, waterfront dining and sightseeing cruises."
+    },
+    {
+      "name": "Nissi Beach area",
+      "description": "Popular beach resort with shallow turquoise water and beach facilities."
+    },
+    {
+      "name": "Makronissos",
+      "description": "Sandy beaches and a quieter resort atmosphere west of the centre."
+    },
+    {
+      "name": "Cape Greco",
+      "description": "Protected coastal landscape with viewpoints and trails."
+    },
+    {
+      "name": "Protaras",
+      "description": "Nearby resort known for Fig Tree Bay and family beaches."
+    }
+  ],
+  "attractions": [
+    {
+      "name": "Ayia Napa Monastery",
+      "description": "Historic landmark in the town centre; check current visiting arrangements."
+    },
+    {
+      "name": "Cape Greco National Forest Park",
+      "description": "Coastal viewpoints, nature trails and dramatic limestone scenery."
+    },
+    {
+      "name": "Ayia Napa Sea Caves",
+      "description": "Beautiful coastal formations; admire from safe viewpoints and avoid cliff jumping."
+    },
+    {
+      "name": "Love Bridge",
+      "description": "Natural rock arch and scenic coastal photo stop."
+    },
+    {
+      "name": "Thalassa Municipal Museum",
+      "description": "Exhibits exploring the sea, marine heritage and Cyprus history."
+    },
+    {
+      "name": "Ayia Napa Sculpture Park",
+      "description": "Outdoor sculptures with sea views; bring sun protection."
+    },
+    {
+      "name": "Ayia Napa Harbour",
+      "description": "Boat trips, fishing boats and seafront strolls."
+    }
+  ],
+  "transport": [
+    {
+      "name": "Larnaca International Airport",
+      "description": "Common arrival airport for Ayia Napa; check current transfer options."
+    },
+    {
+      "name": "Local buses",
+      "description": "Check current OSEA routes for Ayia Napa, Protaras and Paralimni."
+    },
+    {
+      "name": "Intercity buses",
+      "description": "Check current services for Larnaca and other Cyprus towns."
+    },
+    {
+      "name": "Licensed taxis",
+      "description": "Confirm meter use or agree a price before setting off."
+    },
+    {
+      "name": "Car hire",
+      "description": "Cyprus drives on the left; check insurance, parking and road conditions."
+    },
+    {
+      "name": "Walking and cycling",
+      "description": "Promenade walks are pleasant; use caution on roads and in summer heat."
+    }
+  ],
+  "useful": [
+    {
+      "name": "Emergency services",
+      "description": "Dial 112 in Cyprus."
+    },
+    {
+      "name": "Currency",
+      "description": "Euro (€); check card charges and exchange rates."
+    },
+    {
+      "name": "Travel documents",
+      "description": "Check UK passport and Cyprus entry rules before departure."
+    },
+    {
+      "name": "Languages",
+      "description": "Greek and Turkish are official languages; English is widely spoken in tourist areas."
+    },
+    {
+      "name": "Driving",
+      "description": "Drive on the left and follow local road rules."
+    },
+    {
+      "name": "Time zone",
+      "description": "Cyprus is normally two hours ahead of the UK."
+    },
+    {
+      "name": "Sun and heat",
+      "description": "Carry water and sun cream; avoid prolonged midday exposure."
+    },
+    {
+      "name": "Sea safety",
+      "description": "Check beach flags, lifeguard advice and boat-trip weather."
+    },
+    {
+      "name": "Nature protection",
+      "description": "Respect protected habitats around Cape Greco and marked paths."
+    }
+  ],
+  "links": [
+    {
+      "name": "Cyprus travel advice (UK)",
+      "url": "https://www.gov.uk/foreign-travel-advice/cyprus"
+    },
+    {
+      "name": "Cyprus tourism (official)",
+      "url": "https://www.visitcyprus.com/"
+    },
+    {
+      "name": "Ayia Napa municipality",
+      "url": "https://www.agianapa.org.cy/"
+    },
+    {
+      "name": "OSEA public buses",
+      "url": "https://osea.com.cy/"
+    },
+    {
+      "name": "Hermes Airports",
+      "url": "https://www.hermesairports.com/"
+    }
+  ],
+  "advert": {
+    "enabled": false,
+    "image": "adverts/advert.jpg",
+    "link": "",
+    "alt": "Ayia Napa local advertisement"
+  },
+  "beaches": [
+    {
+      "name": "Nissi Beach",
+      "description": "Famous sandy beach with clear water; can be busy in peak season."
+    },
+    {
+      "name": "Makronissos Beach",
+      "description": "Sandy bay popular for swimming and relaxing."
+    },
+    {
+      "name": "Landa Beach",
+      "description": "Sandy beach between Nissi and Makronissos."
+    },
+    {
+      "name": "Grecian Bay (Pantachou Beach)",
+      "description": "Long sandy beach near the harbour."
+    },
+    {
+      "name": "Konnos Bay",
+      "description": "Sheltered scenic bay near Cape Greco; access includes slopes and steps."
+    },
+    {
+      "name": "Fig Tree Bay",
+      "description": "Popular beach in nearby Protaras; check lifeguard and swimming conditions."
+    }
+  ],
+  "markets": [
+    {
+      "name": "Ayia Napa town shops",
+      "description": "Souvenirs, beachwear and holiday essentials around the centre."
+    },
+    {
+      "name": "Local bakeries",
+      "description": "Try Cypriot pastries, breads and snacks."
+    },
+    {
+      "name": "Paralimni shopping",
+      "description": "Nearby town for additional shops and everyday essentials."
+    },
+    {
+      "name": "Supermarkets",
+      "description": "Groceries and picnic supplies around the resort."
+    }
+  ],
+  "nightlife": [
+    {
+      "name": "Ayia Napa Square",
+      "description": "Bars and music venues; busiest in the main holiday season."
+    },
+    {
+      "name": "Harbour evenings",
+      "description": "Relaxed waterfront restaurants and cafés."
+    },
+    {
+      "name": "Nissi Avenue",
+      "description": "Restaurants, bars and evening walks."
+    },
+    {
+      "name": "Protaras evenings",
+      "description": "Alternative nearby resort with family-friendly dining and entertainment."
+    }
+  ],
+  "family": [
+    {
+      "name": "WaterWorld Waterpark",
+      "description": "Seasonal themed waterpark; check opening dates and ride restrictions."
+    },
+    {
+      "name": "Nissi Beach",
+      "description": "Family beach time; supervise children and follow beach safety signs."
+    },
+    {
+      "name": "Harbour boat trips",
+      "description": "Choose licensed operators and check sea conditions."
+    },
+    {
+      "name": "Thalassa Museum",
+      "description": "Indoor option to explore local maritime history."
+    },
+    {
+      "name": "Sculpture Park",
+      "description": "Open-air art and coastal views; bring water and hats."
+    }
+  ],
+  "dining": [
+    {
+      "name": "Cypriot meze",
+      "description": "Sample sharing dishes in a local taverna; check portions and pricing."
+    },
+    {
+      "name": "Harbour restaurants",
+      "description": "Sea-view dining and seafood options."
+    },
+    {
+      "name": "Ayia Napa town centre",
+      "description": "Wide choice of casual restaurants and cafés."
+    },
+    {
+      "name": "Souvlaki and halloumi",
+      "description": "Try classic local favourites."
+    },
+    {
+      "name": "Beachfront cafés",
+      "description": "Light meals and refreshments near the sand."
+    }
+  ],
+  "daytrips": [
+    {
+      "name": "Cape Greco",
+      "description": "Coastal walks, viewpoints and sea caves; use marked trails."
+    },
+    {
+      "name": "Protaras and Fig Tree Bay",
+      "description": "Beach day and relaxed resort atmosphere."
+    },
+    {
+      "name": "Paralimni",
+      "description": "Traditional town centre, shops and cafés."
+    },
+    {
+      "name": "Larnaca",
+      "description": "Seafront, Salt Lake area and historic sites."
+    },
+    {
+      "name": "Nicosia",
+      "description": "Cyprus capital; check travel and museum hours."
+    },
+    {
+      "name": "Deryneia",
+      "description": "Local cultural attractions and viewpoints; check current access."
+    }
+  ],
+  "mapPlaces": [
+    {
+      "name": "Nissi Beach",
+      "description": "Nissi Beach, Ayia Napa, Cyprus"
+    },
+    {
+      "name": "Ayia Napa Harbour",
+      "description": "Ayia Napa Harbour, Cyprus"
+    },
+    {
+      "name": "Ayia Napa Monastery",
+      "description": "Ayia Napa Monastery, Cyprus"
+    },
+    {
+      "name": "Cape Greco",
+      "description": "Cape Greco National Forest Park, Cyprus"
+    },
+    {
+      "name": "Ayia Napa Sea Caves",
+      "description": "Sea Caves, Ayia Napa, Cyprus"
+    },
+    {
+      "name": "Makronissos Beach",
+      "description": "Makronissos Beach, Ayia Napa, Cyprus"
+    },
+    {
+      "name": "Konnos Bay",
+      "description": "Konnos Bay, Cyprus"
+    },
+    {
+      "name": "WaterWorld Waterpark",
+      "description": "WaterWorld Ayia Napa, Cyprus"
+    }
+  ]
+}
