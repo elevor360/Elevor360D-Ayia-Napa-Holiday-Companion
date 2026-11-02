@@ -1,0 +1,6 @@
+Ayia Napa Holiday Companion V2 — Advertising Manager V1 edition
+
+Upload all files and folders to your Ayia Napa GitHub Pages repository.
+To update adverts: export adverts.json using Universal Advertising Manager V1, place it in advertising/adverts.json, and place the referenced images in advertising/images/.
+The sample banner links to https://elevor360d.co.uk/.
+Existing guide and saved personal data features are unchanged.
